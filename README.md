@@ -1,9 +1,32 @@
-Todo Application – React Frontend
- Project Overview
+Todo Full Stack Application
+ Project Description
 
-This project is a Todo Application Frontend developed using React (Functional Components and Hooks). The application provides a clean and user-friendly interface that allows users to efficiently manage daily tasks through full CRUD operations integrated with a backend API.
+The Todo Full Stack Application is a web-based task management system that enables users to perform complete CRUD (Create, Read, Update, Delete) operations on daily tasks. The project demonstrates integration between a React-based frontend and a RESTful backend API.
 
-The application demonstrates modern React development practices including state management with hooks, API integration, and dynamic UI rendering.
+This application is designed following modern development practices, ensuring clean architecture, component-based design, and seamless client-server communication.
+
+Project Structure
+
+The project is organized into two main parts:
+
+🔹 Frontend
+
+Developed using React JS
+
+Built with Functional Components and Hooks
+
+Uses Axios for API communication
+
+Implements dynamic rendering and state management
+
+🔹 Backend
+
+RESTful API implementation
+
+Handles CRUD operations for todos
+
+Connects to a database for persistent storage (if configured)
+
 
  Features
 
@@ -77,4 +100,4 @@ Edit, Delete, and Complete/Incomplete controls for each task
 
  Conclusion
 
-This project showcases practical implementation of frontend development concepts using React. It follows modern best practices and provides a strong foundation for building scalable and interactive web applications.
+This project provides a complete implementation of a full-stack Todo application and serves as a foundational example of modern web development using React and RESTful APIs.
